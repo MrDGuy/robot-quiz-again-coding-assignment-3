@@ -13,7 +13,7 @@
         "tilemap.g.jres",
         "tilemap.g.ts",
         "main.py",
-        "quiz-again-tutorial.md
+        "quiz-again-tutorial.md"
     ],
     "testFiles": [
         "test.ts"
