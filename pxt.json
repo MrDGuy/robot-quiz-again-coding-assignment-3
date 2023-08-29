@@ -3,6 +3,7 @@
     "description": "",
     "dependencies": {
         "device": "*",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0",
         "Robot Extension": "github:MrDGuy/robot-extension#9c77349a3fe19cbb531500cdbc71c8ad1443b174"
     },
     "files": [
