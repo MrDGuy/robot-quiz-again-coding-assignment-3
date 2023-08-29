@@ -12,7 +12,8 @@
         "assets.json",
         "tilemap.g.jres",
         "tilemap.g.ts",
-        "main.py"
+        "main.py",
+        "quiz-again-tutorial.md
     ],
     "testFiles": [
         "test.ts"
